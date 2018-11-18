@@ -1,0 +1,10 @@
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/bin/Debug/netcoreapp2.1/Epam.Task0.Square.deps.json
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/bin/Debug/netcoreapp2.1/Epam.Task0.Square.runtimeconfig.json
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/bin/Debug/netcoreapp2.1/Epam.Task0.Square.runtimeconfig.dev.json
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/bin/Debug/netcoreapp2.1/Epam.Task0.Square.dll
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/bin/Debug/netcoreapp2.1/Epam.Task0.Square.pdb
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/obj/Debug/netcoreapp2.1/Epam.Task0.Square.csproj.CoreCompileInputs.cache
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/obj/Debug/netcoreapp2.1/Epam.Task0.Square.AssemblyInfoInputs.cache
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/obj/Debug/netcoreapp2.1/Epam.Task0.Square.AssemblyInfo.cs
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/obj/Debug/netcoreapp2.1/Epam.Task0.Square.dll
+/Users/nastya/Projects/Epam.Task0.Sequence/Epam.Task0.Square/obj/Debug/netcoreapp2.1/Epam.Task0.Square.pdb

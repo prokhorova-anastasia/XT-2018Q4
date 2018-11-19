@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task0.Sequence", "Epam.Task0.Sequence\Epam.Task0.Sequence.csproj", "{A5DCC847-7A3D-441E-B3FD-A938141EBB11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task0.Simple", "Epam.Task0.Simple\Epam.Task0.Simple.csproj", "{68A3C907-C74A-4C61-871C-FEF98F860EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task0.Square", "Epam.Task0.Square\Epam.Task0.Square.csproj", "{0F67AE13-2B0C-4172-9E53-82544A5D1310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DCC847-7A3D-441E-B3FD-A938141EBB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DCC847-7A3D-441E-B3FD-A938141EBB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DCC847-7A3D-441E-B3FD-A938141EBB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DCC847-7A3D-441E-B3FD-A938141EBB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A3C907-C74A-4C61-871C-FEF98F860EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A3C907-C74A-4C61-871C-FEF98F860EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A3C907-C74A-4C61-871C-FEF98F860EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A3C907-C74A-4C61-871C-FEF98F860EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F67AE13-2B0C-4172-9E53-82544A5D1310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F67AE13-2B0C-4172-9E53-82544A5D1310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F67AE13-2B0C-4172-9E53-82544A5D1310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F67AE13-2B0C-4172-9E53-82544A5D1310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

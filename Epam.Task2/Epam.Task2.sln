@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task2.Round", "Epam.Task2.Round\Epam.Task2.Round.csproj", "{A78103CC-0C79-4935-A55B-8BA847ADB3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task2.Triangle", "Epam.Task2.Triangle\Epam.Task2.Triangle.csproj", "{4BC34403-8924-4D56-88D4-7CB5B75313D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task2.User", "Epam.Task2.User\Epam.Task2.User.csproj", "{DA335BF8-E6F6-4CB1-8955-57E0C130BD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task2.MyString", "Epam.Task2.MyString\Epam.Task2.MyString.csproj", "{D2E4FCC1-6566-433F-8E2C-E520FAC3090C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A78103CC-0C79-4935-A55B-8BA847ADB3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78103CC-0C79-4935-A55B-8BA847ADB3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78103CC-0C79-4935-A55B-8BA847ADB3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78103CC-0C79-4935-A55B-8BA847ADB3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC34403-8924-4D56-88D4-7CB5B75313D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC34403-8924-4D56-88D4-7CB5B75313D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC34403-8924-4D56-88D4-7CB5B75313D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC34403-8924-4D56-88D4-7CB5B75313D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA335BF8-E6F6-4CB1-8955-57E0C130BD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA335BF8-E6F6-4CB1-8955-57E0C130BD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA335BF8-E6F6-4CB1-8955-57E0C130BD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA335BF8-E6F6-4CB1-8955-57E0C130BD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E4FCC1-6566-433F-8E2C-E520FAC3090C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E4FCC1-6566-433F-8E2C-E520FAC3090C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E4FCC1-6566-433F-8E2C-E520FAC3090C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E4FCC1-6566-433F-8E2C-E520FAC3090C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
